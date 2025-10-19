@@ -9,9 +9,9 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Lua-6D28D9?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-FiveM-5B21B6?style=for-the-badge&logo=fivem&logoColor=white" />
-  <img src="https://img.shields.io/github/followers/FluxDevelopment?label=Followers&style=for-the-badge&color=7C3AED" />
+  <img src="https://img.shields.io/badge/Language-Lua-676796?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-FiveM-676796?style=for-the-badge&logo=fivem&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/FluxDevelopment?label=Followers&style=for-the-badge&color=676796" />
 </p>
 
 ---
