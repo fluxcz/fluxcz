@@ -19,8 +19,8 @@
 <h2 align="center">🧠 About Us</h2>
 
 <p align="center">
-  We are <b>Flux Development</b> — a team of passionate developers crafting <b>free, optimized, and community-driven</b> scripts for the <b>FiveM</b> platform.<br/>
-  Our mission is to empower server owners with clean, efficient, and high-quality Lua scripts.
+  We are <b>Flux Development</b> - a team of 2 passionate developers making <b>free and optimized</b> scripts for the <b>FiveM</b> platform.<br/>
+  Our mission is to empower server owners with clean, efficient, and high-quality scripts.
 </p>
 
 ---
