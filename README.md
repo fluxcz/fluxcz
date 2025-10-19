@@ -30,7 +30,6 @@
 <p align="center">
   ⚙️ Free & Open Source FiveM Scripts <br/>
   💡 Performance-Optimized Lua Code <br/>
-  🧩 Tools Made by Developers, for Developers <br/>
   🤝 Active Support via <a href="https://forum.cfx.re/u/fluxdevelopment/summary" target="_blank"><b>Cfx.re Forum</b></a>
 </p>
 
@@ -59,7 +58,7 @@
 
 <p align="center">
   <i>“Free scripts, made with passion — by developers, for developers.”</i><br/>
-  — 💜 <b>Flux Development Team</b>
+  - 💜 <b>Flux Development Team</b>
 </p>
 
 ---
