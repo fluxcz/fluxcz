@@ -50,7 +50,7 @@
 
 <p align="center">
   🕹️ <a href="https://forum.cfx.re/u/fluxdevelopment/summary" target="_blank"><b>Cfx.re Forum Profile</b></a><br/>
-  🧭 Discord: <i>https://discord.gg/CGAMXJm6rA</i><br/>
+  🧭 Discord: <i>https://discord.gg/</i><br/>
 </p>
 
 ---
